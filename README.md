@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone [your-repo-url]
+   git clone https://github.com/tanishraj/starter-template-parcel-react.git
    cd parcel_react
    ```
 
